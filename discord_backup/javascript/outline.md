@@ -1,0 +1,16 @@
+# Outline
+- Chrome Developer Tool
+    - Hello World x
+    - Types x
+    - Variables x
+    - Boolean Logic, if statements, while loops x
+        - Fiz Buzz problem x
+    - Functions
+        - Function concepts x
+        - Function returns (next)
+        - scope (next)
+    - hashes 
+    - For loops
+    - problem sets
+- Development Setup
+   - more problem sets
